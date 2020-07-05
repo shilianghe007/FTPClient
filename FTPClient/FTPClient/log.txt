@@ -1,0 +1,66 @@
+Sat Apr  4 22:19:34 2020
+220 (vsFTPd 3.0.2)
+
+Sat Apr  4 22:19:34 2020
+You send user name cliff to FTPServer
+Sat Apr  4 22:19:34 2020
+FTP:331 Please specify the password.
+
+Sat Apr  4 22:19:34 2020
+You send user passwd 160035 to FTPServer
+Sat Apr  4 22:19:34 2020
+FTP:230 Login successful.
+
+Sun Apr  5 14:57:50 2020
+220 (vsFTPd 3.0.2)
+
+Sun Apr  5 14:57:50 2020
+You send user name cliff to FTPServer
+Sun Apr  5 14:57:50 2020
+FTP:331 Please specify the password.
+
+Sun Apr  5 14:57:50 2020
+You send user passwd 160035 to FTPServer
+Sun Apr  5 14:57:50 2020
+FTP:230 Login successful.
+
+Sun Apr  5 14:57:50 2020
+You send PASSIVE MODE to FTPServer: PASV
+Sun Apr  5 14:57:50 2020
+FTP:227 Entering Passive Mode (172,17,60,128,253,161).
+
+Sun Apr  5 14:57:50 2020
+You send a order to list folder information:./
+Sun Apr  5 14:57:50 2020
+FTP:150 Here comes the directory listing.
+
+Sun Apr  5 15:22:37 2020
+220 (vsFTPd 3.0.2)
+
+Sun Apr  5 15:22:37 2020
+You send user name cliff to FTPServer
+Sun Apr  5 15:22:37 2020
+FTP:331 Please specify the password.
+
+Sun Apr  5 15:22:37 2020
+You send user passwd 160035 to FTPServer
+Sun Apr  5 15:22:37 2020
+FTP:230 Login successful.
+
+Sun Apr  5 15:22:37 2020
+You send PASSIVE MODE to FTPServer: PASV
+Sun Apr  5 15:22:37 2020
+FTP:227 Entering Passive Mode (172,17,60,128,194,205).
+
+Sun Apr  5 15:22:37 2020
+You send a order to list folder information:./
+Sun Apr  5 15:22:37 2020
+FTP:150 Here comes the directory listing.
+
+Sun Apr  5 15:22:47 2020
+You send PASSIVE MODE to FTPServer: PASV
+Sun Apr  5 15:22:47 2020
+FTP:226 Directory send OK.
+
+Sun Apr  5 15:22:47 2020
+data socket connect error !
